@@ -2,6 +2,11 @@
 
 It's a basic scripts to control your mouse and protect you against screensaver.
 
+
+## Source 
+
+This app is inspired by getitjob, Mouse vs Python (https://www.youtube.com/watch?v=6L1DkMLl2uA)
+
 ## How to action?
 
 Run the file `main.py`:
