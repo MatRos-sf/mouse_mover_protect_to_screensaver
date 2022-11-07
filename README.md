@@ -1,4 +1,4 @@
-#mouse mover protect to screensaver
+# mouse mover protect to screensaver
 
 It's a basic scripts to control your mouse and protect you against screensaver.
 
